@@ -21,3 +21,11 @@ Learn more about the app and its features.
 **Splash Screen & Navigation**
 The app features a custom splash screen with a logo.
 Smooth and intuitive navigation using top tabs navigator.
+
+# Built With
+**React Native** - A framework for building native apps using React.
+**Expo** - A platform for making React Native development easier and faster.
+**AsyncStorage** - For persistent storage of favorite movies.
+
+# Contributing
+Feel free to contribute to this project by opening issues or submitting pull requests. Contributions are always welcome!
